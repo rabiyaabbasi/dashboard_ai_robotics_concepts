@@ -71,3 +71,17 @@ Talks and workshops on embodied AI / Physical AI
 Teaching materials for robotics & AI courses
 
 Personal learning hubs
+
+
+📄 License
+
+MIT – feel free to fork, extend, or adapt for your own AI/robotics learning tools.
+
+
+---
+
+If you follow these steps and paste each file into GitHub with the right paths, you’ll have a **proper, runnable repo** that you can link in your LinkedIn post:
+
+> “I tweaked the code and published the full interactive version on GitHub.”
+
+If you’d like, next step I can help you write a **short GitHub repo description + tags*
